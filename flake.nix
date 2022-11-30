@@ -24,6 +24,8 @@
             opencv3
             pyfiglet
             sounddevice
+            pillow
+            imbalanced-learn
         ]);
 
         # Make the shell.
