@@ -16,6 +16,7 @@
             ipykernel
             notebook
             scikit-learn
+            scikitimage
             seaborn
             pandas
             numpy
